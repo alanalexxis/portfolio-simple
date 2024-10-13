@@ -9,11 +9,7 @@ import { work } from "@cv";
     {
       work.map(({ name, startDate, endDate, position, summary, url }) => {
         const startDateObj = new Date(startDate);
-        startDateObj.setMonth(startDateObj.getMonth() + 1);
         const endDateObj = endDate != null ? new Date(endDate) : null;
-        if (endDateObj) {
-          endDateObj.setMonth(endDateObj.getMonth() + 1);
-        }
         const startMonthYear = `${startDateObj.toLocaleString("es-ES", { month: "long" })} de ${startDateObj.getFullYear()}`;
         const endMonthYear =
           endDateObj != null
