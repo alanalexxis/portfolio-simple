@@ -1,0 +1,265 @@
+{
+  "basics": {
+    "name": "Alan Alexis Jiménez Ballinas",
+    "label": "Desarrollador Frontend enfocado en construir interfaces modernas y atractivas.",
+    "image": "/me.webp",
+    "email": "alanalexxisdev@gmail.com",
+    "phone": "+52 9191686541",
+    "url": "https://midu.dev",
+    "summary": "Front-end developer con experiencia en React, Next.js, TypeScript y Tailwind CSS. Durante mi internship en Hotel Xcaret México y mi participación en el programa Delfín-2024, perfeccioné mis habilidades en desarrollo de interfaces de usuario, creando aplicaciones visualmente atractivas y funcionales. He demostrado capacidad para elevar la calidad del código y diseñar interfaces intuitivas, mejorando la experiencia del usuario y contribuyendo a proyectos innovadores.",
+    "location": {
+      "address": "",
+      "postalCode": "29950",
+      "city": "Ocosingo",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alanalexxis",
+        "url": "https://linkedin.com/in/alanalexxis"
+      },
+      {
+        "network": "X",
+        "username": "alanalexxis",
+        "url": "https://x.com/AAJB19999"
+      },
+      {
+        "network": "GitHub",
+        "username": "alanalexxis",
+        "url": "https://github.com/alanalexxis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Hotel Xcaret México",
+      "position": "Intern FrontEnd Developer",
+      "url": "https://www.hotelxcaret.com/es/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Desarrollé una interfaz intuitiva con React y configuré el servidor en Node.js y Express para una comunicación fluida con MySQL. Aseguré la integridad de los datos de inventario y realicé mejoras para optimizar la eficiencia y actualización del sistema.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Programa Delfín",
+      "position": "Intern FrontEnd Developer",
+      "url": "https://programadelfin.org.mx/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Migré una aplicación de escritorio en Python con OpenCV a una solución web en Flask, implementando un modelo de clasificación basado en YOLOv10. Utilicé Supabase para almacenar y gestionar datos relacionados, y desarrollé una interfaz interactiva con Next.js y componentes de Shadcn para la visualización de resultados y la interacción con el sistema.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica De La Selva",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2025-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pawpal",
+      "isActive": true,
+      "description": "Aplicación para el cuidado y monitoreo de salud de mascotas",
+      "highlights": [
+        "Seguimiento de salud",
+        "Cuidados diarios",
+        "Consejos para tu mascota"
+      ],
+      "url": "https://pawpal.site/",
+      "github": "https://github.com/alanalexxis/pawpall_project"
+    },
+    {
+      "name": "TV Maze Search",
+      "isActive": true,
+      "description": "Buscador de shows y series con datos de TV Maze.",
+      "highlights": [
+        "Explora miles de shows",
+        "+5 temas",
+        "Filtros de búsqueda"
+      ],
+      "url": "https://tvmaze-search.netlify.app/",
+      "github": "https://github.com/alanalexxis/tvmaze-search"
+    },
+    {
+      "name": "mex-sembrandovida-clasif",
+      "isActive": true,
+      "description": "Clasificador de limones de exportación con inteligencia artificial para el programa sembrando vida",
+      "highlights": [
+        "Aumenta la eficiencia agrícola",
+        "Basado en inteligencia artificial"
+      ],
+      "url": "https://programasparaelbienestar.gob.mx/sembrando-vida/"
+    },
+    {
+      "name": "Hotel Sureste",
+      "isActive": false,
+      "description": "Plataforma para reservar y explorar estancias en el Hotel Sureste.",
+      "highlights": ["Realiza reservas en tiempo real", "Pagos online"],
+
+      "github": "https://github.com/alanalexxis/hotelsureste"
+    },
+
+    {
+      "name": "Inventario HXM",
+      "isActive": false,
+      "description": "Aplicación para gestión del inventario del almacén del Hotel Xcaret México",
+      "highlights": [
+        "Control del inventario",
+        "Generación de informes de stock",
+        "Notificaciones"
+      ],
+
+      "github": "https://github.com/alanalexxis/inventariox-hxm"
+    }
+  ]
+}
