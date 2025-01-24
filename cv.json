@@ -245,7 +245,7 @@
       "isActive": false,
       "description": "Plataforma para reservar y explorar estancias en el Hotel Sureste.",
       "highlights": ["Realiza reservas en tiempo real", "Pagos online"],
-
+      "url": "https://hotelsureste.netlify.app/",
       "github": "https://github.com/alanalexxis/hotelsureste"
     },
 
