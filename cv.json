@@ -232,7 +232,7 @@
     },
     {
       "name": "mex-sembrandovida-clasif",
-      "isActive": true,
+      "isActive": false,
       "description": "Clasificador de limones de exportación con inteligencia artificial para el programa sembrando vida",
       "highlights": [
         "Aumenta la eficiencia agrícola",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Hotel Sureste",
-      "isActive": false,
+      "isActive": true,
       "description": "Plataforma para reservar y explorar estancias en el Hotel Sureste.",
       "highlights": ["Realiza reservas en tiempo real", "Pagos online"],
       "url": "https://hotelsureste.netlify.app/",
