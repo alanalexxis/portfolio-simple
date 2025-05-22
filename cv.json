@@ -34,21 +34,30 @@
   },
   "work": [
     {
-      "name": "Hotel Xcaret México",
-      "position": "Intern FrontEnd Developer",
-      "url": "https://www.hotelxcaret.com/es/",
-      "startDate": "2023-05-01",
-      "endDate": "2023-08-01",
-      "summary": "Desarrollé una interfaz intuitiva con React y configuré el servidor en Node.js y Express para una comunicación fluida con MySQL. Aseguré la integridad de los datos de inventario y realicé mejoras para optimizar la eficiencia y actualización del sistema.",
+      "name": "Educa33",
+      "position": "FrontEnd Developer",
+      "url": "https://programadelfin.org.mx/",
+      "startDate": "2025-01-02",
+      "endDate": "2025-05-02",
+      "summary": "Diseñé las interfaces de Cambafy, una plataforma inmobiliaria en Oracle APEX, integrando geolocalización, contacto directo y versiones móviles con Jetpack Compose. También desarrollé la web app con Next.js y Shadcn para una experiencia moderna y responsiva.",
       "highlights": ["Started the company"]
     },
     {
       "name": "Programa Delfín",
       "position": "Intern FrontEnd Developer",
       "url": "https://programadelfin.org.mx/",
-      "startDate": "2024-06-01",
-      "endDate": "2024-08-01",
-      "summary": "Migré una aplicación de escritorio en Python con OpenCV a una solución web en Flask, implementando un modelo de clasificación basado en YOLOv10. Utilicé Supabase para almacenar y gestionar datos relacionados, y desarrollé una interfaz interactiva con Next.js y componentes de Shadcn para la visualización de resultados y la interacción con el sistema.",
+      "startDate": "2024-05-02",
+      "endDate": "2024-08-02",
+      "summary": "Implementé una solución web para clasificación de limones basada en YOLOv10, migrando desde Python/OpenCV a Flask. Integré Supabase para el almacenamiento de datos y construí una UI interactiva con Next.js y Shadcn.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Hotel Xcaret México",
+      "position": "Intern FrontEnd Developer",
+      "url": "https://www.hotelxcaret.com/es/",
+      "startDate": "2023-05-02",
+      "endDate": "2023-08-02",
+      "summary": "Desarrollé un sistema de inventario para almacén con una interfaz en React y backend en Node.js/Express, conectado a MySQL. Además, integré el sistema con la plataforma Opera que ya usaba la empresa, permitiendo sincronización y actualización automática de datos entre ambos sistemas.  ",
       "highlights": ["Started the company"]
     }
   ],
@@ -69,8 +78,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Ingeniero de Software",
       "studyType": "Bachelor",
-      "startDate": "2021-01-01",
-      "endDate": "2024-01-01",
+      "startDate": "2022-01-01",
+      "endDate": "2026-01-01",
       "score": "4.0",
       "courses": ["DB1101 - Basic SQL"]
     }
@@ -126,6 +135,7 @@
         "Diseño Responsive"
       ]
     },
+
     {
       "name": "TypeScript",
       "level": "Avanzado",
@@ -217,6 +227,29 @@
       ],
       "url": "https://pawpal.site/",
       "github": "https://github.com/alanalexxis/pawpall_project"
+    },
+    {
+      "name": "Data-Driven Studio",
+      "isActive": true,
+      "description": "Rediseño de landing page para una plataforma de análisis y visualización de datos.",
+      "highlights": [
+        "Interfaz moderna y responsiva",
+        "Mejora en la experiencia de usuario"
+      ],
+      "url": "https://data-drive-content-studio.netlify.app/",
+      "github": "https://github.com/alanalexxis/webpagetest-redesign"
+    },
+    {
+      "name": "CentralPay",
+      "isActive": true,
+      "description": "Plataforma para pagos de colegiaturas y anualidades.",
+      "highlights": [
+        "Proceso de pago simplificado",
+        "Visualización clara de historial de pagos",
+        "Facturas PDF"
+      ],
+      "url": "https://central-pay.vercel.app/login",
+      "github": "https://github.com/alanalexxis/Central-pay"
     },
     {
       "name": "TV Maze Search",
